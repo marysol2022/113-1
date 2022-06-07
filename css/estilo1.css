@@ -1,0 +1,40 @@
+*{
+	margin:	10px;
+	padding: 10px;
+}
+body
+{
+	background-color:#003333;
+	color:#ffffff;
+	font-family:verdana;
+}
+header
+{
+	height:100px;
+	background-color:red;
+}
+nav{
+	height:50px;
+	background-color:yellow;
+}
+section{
+	background-color:#00cc00;
+	height:150px;
+	width:65%;
+	float:left;
+}
+aside
+{
+	background-color:#FFC0CB;
+	height:300px;
+	width:25%;
+	float:right;
+}
+footer
+{
+	background-color:#FF00FF; 
+	height:370px;
+	float:bottom;	
+}
+
+
